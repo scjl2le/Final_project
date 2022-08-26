@@ -1,0 +1,22 @@
+{
+"code" : [{
+    "A1": "Hypocalcaemia secondary to magnesium deficiency (blunted PTH response).",
+    "A2": "Hypocalcaemia with low PTH suggestive of primary hypoparathyroidism, suggest referral to Endocrinology.", 
+    "A3": "Hypocalcaemia with low PTH suggest repeat with Mg",
+    "B1": "Hypocalcaemia secondary to magnesium deficiency (blunted PTH response).",
+    "B2": "Hypocalcaemia with inappropriately normal PTH suggestive of primary hypoparathyroidism, suggest referral to Endocrinology. however if borderline low calcium suggest repeat in the first instance.",
+    "B3": "Hypocalcaemia with inappropriately normal PTH suggest repeat with Mg.", 
+    "C1": "Secondary hyperparathyroidism due to vitamin D deficiency/insufficiency", 
+    "C2": "historical vitamin D deficiency/?Mg.",
+    "C3": "Vitamin D status",
+    "D" : "Normal calcium with low PTH unlikely to be significant.",
+    "E" : "Normal profile",
+    "F1": "Secondary hyperparathyroidism due to vitamin D deficiency/insufficiency",
+    "F2": "normocalcaemic primary hyperparathyroidism, suggest repeat in the first instance before considering referral to Endocrinology.",
+    "F3": "Calcium within reference range and borderline raised PTH likely not significant. Unless primary hyperparathyroidism is suspected no follow up required.",
+    "G" : "Non-PTH dependant hypercalcaemia suggest further investigations.",
+    "H" : "Hypercalcaemia with PTH in the reference range consistent with primary hyperparathyroidism, suggest referral to Endocrinology.",
+    "I" : "Hypercalcaemia with raised PTH consistent with primary hyperparathyroidism, suggest referral to Endocrinology."  
+}]
+}
+ 
